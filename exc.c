@@ -9,9 +9,6 @@ int factorial_exponential(int n) {
 }
 
 int add_num(int a, int b) {
-    if (n == 0) {
-        return 1;
-    }
     return a + b;
 }
 
